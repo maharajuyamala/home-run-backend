@@ -1,1 +1,1 @@
-web: gunicorn home-run-backend.wsgi:application
+web: gunicorn backend.wsgi:application
